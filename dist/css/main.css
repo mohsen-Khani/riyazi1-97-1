@@ -113,3 +113,9 @@ body{font-family: "XB Niloofar"}
 .imp-text{
     color:crimson;
 }
+p{
+    margin-bottom: 20px;
+}
+i{
+    font-style: italic;
+}
